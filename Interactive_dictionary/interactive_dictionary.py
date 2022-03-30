@@ -4,7 +4,7 @@ import json
 
 from difflib import get_close_matches
 
-data = json.load(open('076 data.json', 'r'))
+data = json.load(open('data.json', 'r'))
 
 
 def define(w):
