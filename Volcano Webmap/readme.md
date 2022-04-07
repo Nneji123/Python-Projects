@@ -1,3 +1,6 @@
+/relative/path/img/volc.png?raw=true "Optional Title"
+
+
 # Volcano Webmap
 
 This python script is used to create a webmap that shows the location of volcanoes using the locations(latitude and longitude points from the 'Volcanoes.txt' and population indication using the 'GeoJson.json' file which is also provided.
