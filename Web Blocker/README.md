@@ -15,7 +15,7 @@ This is a python script which runs in the background and blocks websites from be
 
 ## Video
 A video on how to set up the script is also included.
-https://user-images.githubusercontent.com/101701760/162276355-84ccceac-2cab-442e-8fa4-bc27180c3552.mp4
+![Watch the video](https://user-images.githubusercontent.com/101701760/162276355-84ccceac-2cab-442e-8fa4-bc27180c3552.mp4)
 
 ## Modifications
 1. You can add as many sites to the script as you want just go to 'website_list' and a site to the list.
