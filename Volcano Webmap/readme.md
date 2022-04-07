@@ -1,4 +1,4 @@
-https://github.com/Nneji123/Python-Projects/blob/main/Volcano%20Webmap/img/volc.png
+!['Screenshot'](https://github.com/Nneji123/Python-Projects/blob/main/Volcano%20Webmap/img/volc.png)
 
 
 # Volcano Webmap
